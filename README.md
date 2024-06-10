@@ -19,7 +19,7 @@ This project involved several key steps:
 ### User Instructions
 
 To use this project, follow these steps:
-* Clone the Repository: git clone https://github.com/yourusername/financial-campaign-segmentation.git
+* Clone the Repository: git clone [https://github.com/yourusername/financial-campaign-segmentation.git](https://github.com/TimmyTonyY/Bank-Customer-Segmentation-/tree/main)
 * Install Dependencies: Navigate to the project directory and run pip install -r requirements.txt to install the necessary libraries.
 * Run the Analysis: Execute the Jupyter Notebook or Python scripts to perform the data analysis and clustering.
 
